@@ -16,9 +16,9 @@
 ---
 
 ### 🚀 Sobre Mim
-[cite_start]Sou estudante de **Ciência da Computação** na UNIPAC [cite: 10, 11] [cite_start]e Campeão de Maratona de Programação[cite: 7]. Meu foco é unir **Engenharia de Software** com **Segurança Ofensiva** e **Inteligência Artificial**.
+Sou estudante de **Ciência da Computação** na UNIPAC e Campeão de Maratona de Programação. Meu foco é unir **Engenharia de Software** com **Segurança Ofensiva** e **Inteligência Artificial**.
 
-- [cite_start]🔭 **Projetos Recentes:** Criei o *Nexus ERP Analytics*, um dashboard de BI integrado com a API do Google Gemini[cite: 14, 18].
+- 🔭 **Projetos Recentes:** Criei o *Nexus ERP Analytics*, um dashboard de BI integrado com a API do Google Gemini.
 - 🔐 **Segurança:** Tenho certificação como **Pentester** e estudo cibersegurança aplicada.
 - 💡 **Interesses:** Desenvolvimento Web Moderno, Engenharia de Dados e Automação com IA.
 
