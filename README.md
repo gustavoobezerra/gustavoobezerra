@@ -56,10 +56,10 @@ Sou estudante de **Ciência da Computação** na UNIPAC e Campeão de Maratona d
 
 ### 📊 Estatísticas do GitHub
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavoobezerra&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavoobezerra&show_icons=true&theme=radical&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoobezerra&layout=compact&theme=radical"/>
 </div>
 
 <div align="center">
-  <img alt="Snake animation" src="https://github.com/gustavoobezerra/gustavoobezerra/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/gustavoobezerra/gustavoobezerra/output/github-contribution-grid-snake.svg" />
 </div>
