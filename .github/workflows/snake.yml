@@ -17,9 +17,10 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: gustavoobezerra
+          # AQUI ESTÁ A MUDANÇA: Definindo uma paleta personalizada
+          # O primeiro código (#0d1117) é a cor dos quadrados vazios (fundo super escuro)
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?palette=#0d1117,#0e4429,#006d32,#26a641,#39d353
 
       - name: Push to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
