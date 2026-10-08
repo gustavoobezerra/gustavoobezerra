@@ -1,3 +1,9 @@
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+Gustavo+Bezerra!;Engenheiro+de+Software+na+Dimensa%C3%BAde;Arquitetura%2C+Web%2C+Mobile+e+Dados;Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+na+UNIPAC" alt="Apresentação animada de Gustavo Bezerra" />
+  </a>
+</div>
+
 # Gustavo de Oliveira Bezerra
 
 **Engenheiro de Software na Dimensaúde** · Ciência da Computação na UNIPAC
@@ -40,3 +46,7 @@ Também participo do **BrainLink**, projeto de iniciação científica aprovado 
 Sou graduando em Ciência da Computação na UNIPAC, com conclusão prevista para 2028. Fui duas vezes campeão e uma vez vice-campeão da Maratona de Computação da universidade.
 
 **Contato:** [LinkedIn](https://www.linkedin.com/in/gustavo-bezerradev/) · [Portfólio](https://gustavobezerradev.com/) · [E-mail](mailto:gustavodeobezerra@gmail.com)
+
+<div align="center">
+  <img alt="Animação das contribuições no GitHub" src="https://raw.githubusercontent.com/gustavoobezerra/gustavoobezerra/output/github-contribution-grid-snake.svg" />
+</div>
