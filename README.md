@@ -1,65 +1,42 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=500&lines=Ola%2C+eu+sou+Gustavo+Bezerra!;Dev+Full+Stack+%26+Pentester;Especialista+em+IA+%26+Business+Intelligence;Ciencia+da+Computacao+%40+UNIPAC" alt="Typing SVG" />
-  </a>
-</div>
+# Gustavo de Oliveira Bezerra
 
-<div align="center">
-  <a href="https://linkedin.com/in/gustavo-bezerradev" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a> 
-  <a href="mailto:gustavodeobezerra@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
-  </a>
-</div>
+**Engenheiro de Software na Dimensaúde** · Ciência da Computação na UNIPAC
 
----
+Projeto e desenvolvo software de ponta a ponta para a Dimensaúde, um conglomerado de empresas do setor de saúde. Meu trabalho começa na conversa com profissionais e usuários e segue pela arquitetura, modelagem de dados, desenvolvimento, testes, publicação e operação.
 
-### 🚀 Sobre Mim
-Sou estudante de **Ciência da Computação** na UNIPAC e Campeão de Maratona de Programação. Meu foco é unir **Engenharia de Software** com **Segurança Ofensiva** e **Inteligência Artificial**.
+## Produtos que desenvolvi
 
-- 🔭 **Projetos Recentes:** Criei o *Nexus ERP Analytics*, um dashboard de BI integrado com a API do Google Gemini.
-- 🔐 **Segurança:** Tenho certificação como **Pentester** e estudo cibersegurança aplicada.
-- 💡 **Interesses:** Desenvolvimento Web Moderno, Engenharia de Dados e Automação com IA.
+### Dimensono
 
----
+Plataforma para clínicas do sono. O paciente se vincula ao médico, responde questionários e registra o diário no portal ou aplicativo. O painel clínico reúne histórico, métricas e relatórios para o acompanhamento profissional. Projetei o banco de dados e desenvolvi a aplicação, do back-end às interfaces usadas por pacientes e médicos.
 
-### 🛠️ Arsenal Tecnológico
+### DimenKids
 
-#### 💻 Linguagens & Core
-<div align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-</div>
+Aplicativo para famílias e painel para clínicas acompanharem a rotina infantil. A família registra sono, alimentação, hábitos e informações escolares, além de responder a atividades e questionários solicitados pelos profissionais. Na clínica, esses dados aparecem como histórico, documentos e relatórios para o acompanhamento da criança.
 
-#### 🌐 Full Stack & Ferramentas
-<div align="center">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</div>
+### Roncograma
 
-#### 🤖 IA, Dados & Segurança
-<div align="center">
-  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white" />
-  <img src="https://img.shields.io/badge/Business%20Intelligence-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Cybersecurity-Success?style=for-the-badge&logo=kalilinux&logoColor=white&color=black" />
-  <img src="https://img.shields.io/badge/Pentesting-Critial?style=for-the-badge&logo=hack-the-box&logoColor=white&color=red" />
-</div>
+Aplicativo que grava e analisa os sons da noite pelo celular para identificar episódios de ronco, mostrar medições e acompanhar sua evolução entre noites. Os registros de hábitos ajudam a contextualizar os resultados.
 
----
+### Dimensaúde Planejamento
 
-### 📊 Estatísticas do GitHub
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavoobezerra&show_icons=true&theme=radical&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoobezerra&layout=compact&theme=radical"/>
-</div>
+Plataforma interna para planejar e acompanhar a operação dos produtos do grupo. Reúne indicadores, monitoramento e relatórios em um painel usado pela equipe.
 
-<div align="center">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/gustavoobezerra/gustavoobezerra/output/github-contribution-grid-snake.svg" />
-</div>
+## Tecnologias
+
+| Área | Tecnologias |
+| --- | --- |
+| Programação | Python, TypeScript, JavaScript, Dart e SQL |
+| Back-end | FastAPI, Django, SQLAlchemy e APIs REST |
+| Front-end e mobile | React, Flutter e Firebase Cloud Messaging |
+| Dados | PostgreSQL, Redis e SQLite |
+| DevOps | Docker, Nginx, GitHub Actions e Git |
+| Cloud | Google Cloud Platform e Firebase |
+| Integrações | Meta Cloud API, Stripe Connect e webhooks |
+| Qualidade | Pytest, Playwright e revisão de código |
+
+Também participo do **BrainLink**, projeto de iniciação científica aprovado no PROBIC. O aplicativo coleta sinais de EEG e organiza informações com questionários para apoiar profissionais de saúde na avaliação de uma possível hipótese de TDAH; não tem finalidade diagnóstica. Em outros projetos, desenvolvi o **Nexus ERP Analytics**, dashboard de indicadores comerciais com integração à Gemini API, e o **CollabDocs**, editor colaborativo em tempo real.
+
+Sou graduando em Ciência da Computação na UNIPAC, com conclusão prevista para 2028. Fui duas vezes campeão e uma vez vice-campeão da Maratona de Computação da universidade.
+
+**Contato:** [LinkedIn](https://www.linkedin.com/in/gustavo-bezerradev/) · [Portfólio](https://gustavobezerradev.com/) · [E-mail](mailto:gustavodeobezerra@gmail.com)
